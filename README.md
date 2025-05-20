@@ -1,1 +1,1 @@
-# metodos-numericos
+# numeric-methods
